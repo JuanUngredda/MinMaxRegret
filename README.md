@@ -1,3 +1,0 @@
-# MinMaxRegret
-
-hola
